@@ -1,0 +1,6 @@
+# build output
+*.exe
+*.exe~
+
+# IDE
+.idea/
